@@ -132,7 +132,7 @@ int main() {
     schetQs(vozrast2, &k);
     schetQs(ubiv2, &k);
     schetQs(vozubiv2, &k);
-    
+
     schetQsort(randarr3, &k);
     schetQsort(vozrast3, &k);
     schetQsort(ubiv3, &k);
